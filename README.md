@@ -6,13 +6,14 @@
 
 <b>Features:</b><br>
 `Simple Torrent, peerflix-server, deluge, aria2, ariang, rclone, rclone WebUI, Jdownloader, Youtube-dl, Netdata, Cloud Commander, 
-Ssh, noVnc, filebrowser, µTorrent, Transmission Web Control, SocialFish, L3MON, SayCheese, spotify-downloader, pyLoad, qBittorrent, rTorrent, code-server`
+Ssh, noVnc, filebrowser, µTorrent, Transmission Web Control, SocialFish, L3MON, SayCheese, spotify-downloader, pyLoad, qBittorrent, rTorrent, code-server, V2ray, Jellyfin ...`
 
 
 # Usage
-1. Click on the "Open in Colab" button.
-<a href="https://colab.research.google.com/github/biplobsd/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
+1. Download notebook click it --> <a href="https://biplobsd.github.io/Google-Colab-CloudTorrent/torrentTOmega_gdrive.ipynb">torrentTOmega_gdrive.ipynb</a>
+2. Goto <a href="https://colab.research.google.com">https://colab.research.google.com</a>
+3. Upload the notebook (File>Upload notebook) and Select the notebook file to upload.
+4. Done!
 
 ### Our telegram group
 <center><a href="https://t.me/torrentToGM"><img src='https://i.imgur.com/CLg6blO.png' height="70" alt="Telegram Group"/></a></center>
