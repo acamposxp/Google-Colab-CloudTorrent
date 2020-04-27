@@ -1,15 +1,19 @@
+<p align="center"><img src="https://raw.githubusercontent.com/biplobsd/Google-Colab-CloudTorrent/master/src/cover.png" alt="cover"></p>
+
 ![preview](https://raw.githubusercontent.com/biplobsd/Google-Colab-CloudTorrent/master/src/preview.gif)
 
-# Google-Colab-CloudTorrent
+# Google-Colab-CloudTorrent <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbiplobsd%2FGoogle-Colab-CloudTorrent" alt="Hits">
 
-<b>Features:</b>
-- [x] Cloud Torrent and peerflix-server remote torrent client
-- [x] Using serveo.net and ngrok to publish public server
-- [x] One command to unzip zip file.
-- [x] Upload data to MEGA/Google Drive (Account require)
+<b>Features:</b><br>
+`Simple Torrent, peerflix-server, deluge, aria2, ariang, rclone, rclone WebUI, Jdownloader, Youtube-dl, Netdata, Cloud Commander, 
+Ssh, noVnc, filebrowser, µTorrent, Transmission Web Control, SocialFish, L3MON, SayCheese, spotify-downloader, pyLoad, qBittorrent, rTorrent, code-server, V2ray, Jellyfin ...`
+
 
 # Usage
-<br><b>Usage:</b>
-1. Click on the "Open in Colab" button and press ctrl+f9
+1. Download notebook click it --> <a href="https://biplobsd.github.io/Google-Colab-CloudTorrent/torrentTOmega_gdrive.ipynb">torrentTOmega_gdrive.ipynb</a>
+2. Goto <a href="https://colab.research.google.com">https://colab.research.google.com</a>
+3. Upload the notebook (File>Upload notebook) and Select the notebook file to upload.
+4. Done!
 
-<a href="https://colab.research.google.com/github/biplobsd/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+### Our telegram group
+<center><a href="https://t.me/torrentToGM"><img src='https://i.imgur.com/CLg6blO.png' height="70" alt="Telegram Group"/></a></center>
